@@ -6,8 +6,6 @@ Submitted by: **Pratik Patil**
 
 Time spent: **4** hours spent in total
 
-Here’s a quick demo of the app in action:
-
 --
 
 ## Required Features
