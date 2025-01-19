@@ -6,6 +6,10 @@ Submitted by: **Pratik Patil**
 
 Time spent: **4** hours spent in total
 
+Here’s a quick demo of the app in action:
+
+![Discount Calculator Demo](https://imgur.com/a/vru66uW.gif)
+
 ---
 
 ## Required Features
