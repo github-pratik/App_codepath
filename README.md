@@ -8,10 +8,8 @@ Time spent: **4** hours spent in total
 
 Here’s a quick demo of the app in action:
 
-## Demo
+## Demo of Discount Calculator
 <img src="https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif" alt="Demo of Discount Calculator" width="400">
-
-
 
 ---
 
