@@ -1,4 +1,4 @@
-# Prework - Discount Calculator
+# IOS101 Prework  - Discount Calculator
 
 Submitted by: **Pratik Patil**
 
@@ -8,10 +8,7 @@ Time spent: **4** hours spent in total
 
 Here’s a quick demo of the app in action:
 
-## Demo of Discount Calculator
-<img src="https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif" alt="Demo of Discount Calculator" width="400">
-
----
+--
 
 ## Required Features
 
@@ -21,6 +18,11 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 ---
+
+## Demo of Discount Calculator
+<img src="https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif" alt="Demo of Discount Calculator" width="400">
+
+--
 
 ## App Brainstorming (Step 4)
 
