@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 Here’s a quick demo of the app in action:
 
-![Discount Calculator Demo](https://drive.google.com/file/d/1Jx89876eOnJDJNculQ7L9OQ8LFMdzf5N/view?usp=sharing)
+![Discount Calculator Demo](https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif)
 
 ---
 
