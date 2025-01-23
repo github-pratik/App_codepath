@@ -1,12 +1,10 @@
-# IOS101 Prework  - Discount Calculator
+# Prework  - *Discount Calculator*
 
 Submitted by: **Pratik Patil**
 
 **Discount Calculator** is an app that allows users to calculate the final price of an item after applying a discount. Additionally, the app features dynamic background color changes for a more interactive experience.
 
 Time spent: **4** hours spent in total
-
---
 
 ## Required Features
 
@@ -15,16 +13,12 @@ The following **required** functionality is completed:
 - [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
----
 
 ## Demo of Discount Calculator
 <img src="https://github.com/github-pratik/App_codepath/blob/main/ioscodepath.gif" alt="Demo of Discount Calculator" width="400">
 
---
 
 ## App Brainstorming (Step 4)
-
-### Favorite Apps and Features
 
 1. **Instagram**
    - Smooth scrolling and clean user interface.
@@ -59,7 +53,7 @@ Describe any challenges encountered while building the app:
 
 ## License
 
-    Copyright 2025 Pratik Shashikant Patil
+    Copyright 2025 Pratik Patil
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -72,4 +66,5 @@ Describe any challenges encountered while building the app:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
 
